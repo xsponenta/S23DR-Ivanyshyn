@@ -1,0 +1,23 @@
+{
+    "competition_id": "usm3d/S23DR2026",
+    "competition_type": "script",
+    "metric": "custom",
+    "token": "hf_******",
+    "team_id": "ivanyshyn-UCU",
+    "submission_id": "xxxxxxxxx_your_sub_id_xxxxxxxxxx",
+    "submission_id_col": "order_id",
+    "submission_cols": [
+        "order_id",
+        "wf_vertices",
+        "wf_edges",
+        "wf_classifications"
+    ],
+    "submission_rows": 578,
+    "output_path": "/tmp/model",
+    "submission_repo": "IhorIvanyshyn01/my-s23dr-submission",
+    "time_limit": 7200,
+    "dataset": "parquet",
+    "submission_filenames": [
+        "submission.json"
+    ]
+}
